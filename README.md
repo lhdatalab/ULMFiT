@@ -2,7 +2,7 @@
 Classification of airline sentiment twitter text based on ULMFiT - Jeremy Howard et al
 
 ### Synopsis
-The sentiment data is classified with a confidence level of 80% on average across airlines. For negative sentiment data this drops to 6-70% on average. Th emodel has an overall accuracy of 75% lower than the the overall confidence, hhwoever for negative sentiment the Falsse positive rate (FPR) is
+The sentiment data is classified with a confidence level of 80% on average across airlines. For negative sentiment data this drops to 6-70% on average. Th emodel has an overall accuracy of 75% lower than the the overall confidence, hhwoever for negative sentiment the False positive rate (FPR) is
 0.045 (negative)
 0.56 (positive)
 0.63 (neutral)
